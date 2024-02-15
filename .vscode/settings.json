@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Course2_project.sln"
+    "dotnet.defaultSolution": "LuckyRocket.sln"
 }
